@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+
+
+    <string name="original_title">Original Title</string>
+    <string name="vote_count">Vote Count :</string>
+    <string name="description">Description:</string>
+    <string name="rating">Rating:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="nointernet">No Internet access!</string>
+    <string name="no_internet_message">Connection failed ! please check your connctivity!</string>
+    <string name="go_to_settings">Go To Settings</string>
+    <string name="close">Close</string>
+    <string name="getting_data">Getting Data!</string>
+    <string name="set_message">Please wait a while...</string>
+    <string name="trailers">Trailers :</string>
+    <string name="reviews">Reviews :</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favourates">Favourites</string>
+    <string name="cantload">Can not Load Tailers and Reviews!!!</string>
+    <string name="removed">Removed From Favourites</string>
+    <string name="added">Added to Favourites</string>
+    <string name="moredetails">More Details Click here!</string>
+    <string name="noreviews">There are No reviews Available !!</string>
+    <string name="notrailers">There are no Trailers Available!!!</string>
+    <string name="msgnofav">There are no favourites availabel here ,please add favourites first!</string>
+    <string name="nofavs">NO Favourates Available</string>
+    <string name="ok">Ok</string>
+
+
+
+
+
+
+
+
+
+</resources>
